@@ -89,7 +89,7 @@ Aplikasi akan terbuka di `http://localhost:8501`
 
 ---
 
-## 📸 Screenshot
+## 📸 Langkah-langkah
 
 *Upload gambar X-Ray → Segmentasi Paru → Ekstraksi Fitur → Hasil Prediksi*
 
